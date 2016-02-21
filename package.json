@@ -1,0 +1,19 @@
+{
+  "name": "object-media",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dottgonzo/object-media.git"
+  },
+  "author": "Dario Caruso",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dottgonzo/object-media/issues"
+  },
+  "homepage": "https://github.com/dottgonzo/object-media#readme"
+}
